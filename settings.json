@@ -1,0 +1,5 @@
+{
+    "crypto_code": "eth",
+    "min_rate": 0.2,
+    "max_rate": 0.8
+}
